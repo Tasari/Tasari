@@ -1,6 +1,11 @@
 #### About Me:
 I am third year student of BioIT in University of Gdańsk, i currently intend to work as programmer after getting Bachelor degree and i am open to all offers including Python. My CV is available on my LinkedIn account, i will be happy to connect with anyone interested on LinkedIn.
 
+#### Tools i use:
+  - Visual Studio Code
+  - Git and Git-flow
+  - Learning to use Docker
+
 #### Current Project:
 I'm currently working on Django based shop system, similar to McDonald's, which will allow user to manage whole shop.
 
