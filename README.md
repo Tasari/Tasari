@@ -1,5 +1,5 @@
 #### About Me:
-I am third year student of BioIT in University of Gdańsk, i currently intend to work as programmer after getting Bachelor degree and i am open to all offers including Python. My CV is available on my LinkedIn account, i will be happy to connect with anyone interested on LinkedIn.
+I am third year student of BioIT in University of Gdańsk, i currently intend to work as programmer after getting Bachelor degree and i am open to all offers including Python. My CV is available on my LinkedIn account, i will be happy to connect with anyone interested.
 
 #### Tools i use:
   - Visual Studio Code
