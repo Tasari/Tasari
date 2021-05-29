@@ -4,17 +4,17 @@ I am third year student of BioIT in University of Gdańsk, i currently intend to
 #### Tools i use:
   - Visual Studio Code
   - Git and Git-flow
-  - Learning to use Docker
 
 #### Current Project:
-I'm currently working on Django based shop system, similar to McDonald's, which will allow user to manage whole shop.
+DNN model which can predict parameters of transitions for Bachelor's Degree
+
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Tasari&hide=contribs,issues&theme=midnight-purple&hide_border=True">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tasari&hide=contribs,issues&theme=midnight-purple&hide_border=True" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&hide=Jupyter%20Notebook&theme=midnight-purple&hide_border=True">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&hide=Jupyter%20Notebook&theme=midnight-purple&hide_border=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&theme=midnight-purple&hide_border=True" />
 </a>
 
 
