@@ -1,5 +1,5 @@
 #### About Me:
-I am a Python developer, I am working in Python since July 2021, having opportunities to work in 2 international teams, mainly developing webapps/APIs in Django, beside work, on my BA thesis, I was working on developing Machine Learning project for physics problem, and my code was published as part of publication in scientific journal about that topic.
+I am working in Python since July 2021, having opportunities to work in 2 international teams, mainly developing webapps/APIs in Django, beside work, on my BA thesis, I was working on developing Machine Learning project for physics problem, and my code was published as part of publication in scientific journal about that topic.
 
 
 <!--
