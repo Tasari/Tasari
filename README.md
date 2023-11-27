@@ -1,22 +1,5 @@
 #### About Me:
-I am third year student of BioIT in University of Gdańsk, i currently intend to work as programmer after getting Bachelor degree and i am open to all offers including Python. My CV is available on my LinkedIn account, i will be happy to connect with anyone interested.
-
-#### Tools i use:
-  - Visual Studio Code
-  - Git and Git-flow
-
-#### Current Project:
-DNN model which can predict parameters of transitions for Bachelor's Degree
-
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&hide=Jupyter%20Notebook&theme=midnight-purple&hide_border=True">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&theme=midnight-purple&hide_border=True" />
-</a>
-
-
-
-
+I am a Python developer, I am working in Python since July 2021, having opportunities to work in 2 international teams, mainly developing webapps/APIs in Django, beside work, on my BA thesis, I was working on developing Machine Learning project for physics problem, and my code was published as part of publication in scientific journal about that topic.
 
 
 <!--
