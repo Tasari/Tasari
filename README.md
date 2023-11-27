@@ -10,13 +10,9 @@ DNN model which can predict parameters of transitions for Bachelor's Degree
 
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=Tasari&hide=contribs,issues&theme=midnight-purple&hide_border=True">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tasari&hide=contribs,issues&theme=midnight-purple&hide_border=True" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&hide=Jupyter%20Notebook&theme=midnight-purple&hide_border=True">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasari&theme=midnight-purple&hide_border=True" />
 </a>
-
 
 
 
